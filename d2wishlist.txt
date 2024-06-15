@@ -1,0 +1,7 @@
+// No Hesitation (PvE)
+//notes:PvE-
+dimwishlist:item=1801007332&perks=839105230,106909392,2980589453,2298656195
+
+// No Hesitation (PvP)
+//notes:PvP-
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,2109543898
