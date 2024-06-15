@@ -1,14 +1,13 @@
 title:Eskimo's Wishlist
 
-// The Final Shape
+// Y7 - The Final Shape
 
-// No Hesitation (PvE)
-//notes:ESKI-PvE
-dimwishlist:item=1801007332&perks=839105230,106909392,2980589453,2298656195
+// No Hesitation (god-pve)
+//notes: ESKI-PVE tags:god-pve
+dimwishlist:item=1801007332&perks=839105230,106909392,2980589453,2298656195,1988485648
 
-// No Hesitation (PvP)
-//notes:ESKI-PvP
-dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,2109543898
+// No Hesitation (god-pvp)
+//notes: ESKI-PVP tags:god-pvp
+dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,2109543898,1988485648
 
-
-// Echoes
+// Y7S24 - Echoes
