@@ -2,16 +2,35 @@ title:Eskimo's Wishlist
 
 // Y7 - The Final Shape
 
-// No Hesitation (god-pve)
-//notes: ESKI-PVE tags:god-pve
+// No Hesitation (PvE)
+//notes:ESKI-PvE tags:god-pve
 dimwishlist:item=1801007332&perks=839105230,106909392,2980589453,2298656195,1988485648
 
-// No Hesitation (god-pvp)
-//notes: ESKI-PVP tags:god-pvp
+// No Hesitation (PvP)
+//notes:ESKI-PvP tags:god-pvp
 dimwishlist:item=1801007332&perks=1482024992,3142289711,3523296417,2109543898,1988485648
 
-//Ill Omen ()
-//notes: ESKI-Clean
+//Ill Omen (Popular)
+//notes:ESKI-Popular
 dimwishlist:item=3794274730&perks=436053704,52780822,2590710093,3708227201
+
+// The Call (PvE)
+//notes:ESKI-PvE tags:god-pve
+dimwishlist:item=3947966653&perks=3525010810,106909392,1556840489,4049631843
+dimwishlist:item=3947966653&perks=3525010810,106909392,1556840489,2109543898
+dimwishlist:item=3947966653&perks=3525010810,106909392,3523296417,4049631843
+dimwishlist:item=3947966653&perks=3525010810,106909392,3523296417,2109543898
+
+// The Call (PvP)
+//notes:Eski-PvP tags:god-pvp
+dimwishlist:item=3947966653&perks=3525010810,2822142346,2859149211,1546637391
+
+// Lost Signal (PvE)
+//notes:ESKI-PvE tags:god-pve
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,4049631843
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391
+
+
+
 
 // Y7S24 - Echoes
