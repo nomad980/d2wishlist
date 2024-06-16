@@ -1,4 +1,5 @@
 title:Eskimo's Wishlist
+description:Wishlist to help clean up new season weapons.
 
 // Y7 - The Final Shape
 
